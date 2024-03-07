@@ -8,7 +8,6 @@ Software Engineer with 8 years of full stack web development experience speciali
 * LeetCode: https://leetcode.com/dmytrobaida
 
 ## Stats
-### GitHub
-![Dmytro Baida's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmytrobaida&show_icons=true&theme=transparent&hide_border=true)
-### LeetCode
-![Dmytro Baida's LeetCode stats](https://leetcode-badge-sage.vercel.app/badge/dmytrobaida?theme=neutral) 
+| GitHub                                                                                                                                             | LeetCode                                                                                                 |
+| -------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
+| ![Dmytro Baida's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmytrobaida&show_icons=true&theme=transparent&hide_border=true) | ![Dmytro Baida's LeetCode stats](https://leetcode-badge-sage.vercel.app/badge/dmytrobaida?theme=neutral) |
